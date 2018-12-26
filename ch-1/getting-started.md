@@ -24,3 +24,17 @@
 ``` cpp
 #include <vector>
 ```
+
+### Contants
+- Data that will not change during the execution of the program should be stored as a contant. This allows the compiler to better check for errors, e.g. does anything attempt to alter the constant.
+- A constant can be defined for any data type
+- Typically, constants are delcared with UPPERCASE names
+- Constants must be initilised when declared
+
+### Enums
+- Represents a sequence of integers
+- Names can be assigned, that can be used instead of each integer to reference the number
+
+### Custom Data Types
+- Declared as enums with the **typedef** keyword
+- Name for the custom type added to the end of the declaration
