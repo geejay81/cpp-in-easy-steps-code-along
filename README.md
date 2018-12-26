@@ -7,3 +7,4 @@ This project is just me following along the coding in the book C++ Programming i
 ## Contents
 
 - Chapter 1: [Getting Started](ch-1/getting-started.md)
+- Chapter 2: [Performing Operations](ch-2/performing-operations.md)
