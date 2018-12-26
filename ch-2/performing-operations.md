@@ -23,4 +23,14 @@
     - if placed before the value, the value is immediately updated
     - if placed after the value, the value is first noted and then updated
 
+### Assigning Values
+| Operator  | Example   | Equivalent    |
+|-----------|-----------|---------------|
+| =         | a = b     | a = b         |
+| +=        | a += b    | a = (a + b)   |
+| -=        | a -= b    | a = (a - b)   |
+| *=        | a *= b    | a = (a * b)   |
+| /=        | a /= b    | a = (a / b)   |
+| %=        | a %= b    | a = (a % b)   |
+
 
