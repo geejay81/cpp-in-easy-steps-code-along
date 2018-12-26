@@ -33,4 +33,14 @@
 | /=        | a /= b    | a = (a / b)   |
 | %=        | a %= b    | a = (a % b)   |
 
+### Comparing Values
+| Operator  | Comparitive Text  |
+|-----------|-------------------|
+| ==        | Equality          |
+| !=        | Iequality         |
+| >         | Greater than      |
+| <         | Less than         |
+| >=        | Greater or equal  |
+| <=        | Less or equal     |
 
+- The equality operator compares the ASCII code of two char variables and therefore 'A' is not equal to 'a'
