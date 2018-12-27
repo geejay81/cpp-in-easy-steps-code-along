@@ -66,3 +66,14 @@
 ``` cpp
 sizeof(variableName);
 ```
+
+### Casting data types
+- two ways of casting
+    - Traditional
+    ``` cpp
+    variable-name = (data-type) variable-name;
+    ```
+    - With angled brackets
+    ``` cpp
+    variable-name = static_cast <data-type> variable-name;
+    ```
