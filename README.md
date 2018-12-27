@@ -8,3 +8,4 @@ This project is just me following along the coding in the book C++ Programming i
 
 - Chapter 1: [Getting Started](ch-1/getting-started.md)
 - Chapter 2: [Performing Operations](ch-2/performing-operations.md)
+- Chapter 3: [Making Statements](ch-3/making-statements.md)
