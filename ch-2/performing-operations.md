@@ -44,3 +44,17 @@
 | <=        | Less or equal     |
 
 - The equality operator compares the ASCII code of two char variables and therefore 'A' is not equal to 'a'
+
+### Assessing Logic
+| Operator  | Operation     |
+|-----------|---------------|
+| &&        | Logical AND   |
+| ||        | Logical OR    |
+| !         | Logical NOT   |
+
+- In C++, a zero represents the Boolean **false**, and any non-zero value represents the Boolean **true**
+
+### Examining Conditions
+
+#### Ternary Operator
+- Takes three expressions or values. If the first is true, the second expression or value is returned, otherwise the third value or expression is returned
