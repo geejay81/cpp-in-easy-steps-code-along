@@ -58,3 +58,11 @@
 
 #### Ternary Operator
 - Takes three expressions or values. If the first is true, the second expression or value is returned, otherwise the third value or expression is returned
+
+### Establishing Size
+- Declaration of variable allocates system memory
+- Amount of memory allocated depends on the system and data type
+- The memory size of a variable using the sizeof operator
+``` cpp
+sizeof(variableName);
+```
