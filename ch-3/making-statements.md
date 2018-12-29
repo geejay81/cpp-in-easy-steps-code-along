@@ -36,3 +36,11 @@ switch ( variableName )
         // if none of the above values
 }
 ```
+
+### Looping For
+``` cpp
+for (initialiser; text-expression; incrementer)
+{
+    // do something ...
+}
+```
