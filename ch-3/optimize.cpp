@@ -20,9 +20,7 @@ int computeFactorials(int num, int max)
 }
 
 inline int factorial(int n)
-{
-    return (n == 1) ? 1 : (factorial(n - 1) * n);
-}
+{ return (n == 1) ? 1 : (factorial(n - 1) * n); }
 
 /*
 int factorial(int n)
