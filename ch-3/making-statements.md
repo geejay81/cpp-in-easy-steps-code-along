@@ -44,3 +44,21 @@ for (initialiser; text-expression; incrementer)
     // do something ...
 }
 ```
+
+### Looping While
+- Standard while loop ...
+``` cpp
+while (test-expression)
+{
+    // do something iteratively ...
+}
+```
+- Do while loop ...
+``` cpp
+do {
+    // do something iteratively ...
+} while (test-expression)
+```
+- In the do-while loop, there will always be at least 1 iteration because the expression is not evaluated until after the first evaluation
+- A **break** statement can be used in the code to break out of the loop
+- A **continue** statement can be used to skip the current iteration and move to the next
