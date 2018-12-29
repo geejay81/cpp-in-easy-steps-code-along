@@ -96,3 +96,11 @@ cin >> num;
 ``` cpp
 float fToC (float degreesF = 32.0);
 ```
+
+### Overloading functions
+- Overloading means that we can have multiple functions with the same name, as long as they have different arguments signatures. For example, we could have multiple functions called computeArea for circles, with diameter as the parameter, and rectangles, with height and width as the parameters
+``` cpp
+// function declaration
+float computeArea (float diameter);
+float computeArea (float height, float width);
+```
