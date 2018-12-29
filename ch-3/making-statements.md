@@ -63,7 +63,7 @@ do {
 - A **break** statement can be used in the code to break out of the loop
 - A **continue** statement can be used to skip the current iteration and move to the next
 
-### Declaring functions
+### Functions
 - Benefits of using functions:
     - Functions make program code easier to understand and maintain
     - Tried and Tested functions can be re-used by other programs
@@ -84,3 +84,15 @@ float functionName(float float1, float float2)
 
 #### Variable scope
 - Variables that are declared in a function can only be used locally within that function - this is known as **variable scope**
+
+### Arguments
+- **cin** function can be used with the **>>** input stream operator to pass a value from the console to a variable in a program
+``` cpp
+float num;
+cout << "Please enter a number: ";
+cin >> num;
+```
+- When declaring a function, you can optionally provide a default value to use for input arguments, e.g. ...
+``` cpp
+float fToC (float degreesF = 32.0);
+```
