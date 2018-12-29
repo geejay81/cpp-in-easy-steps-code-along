@@ -71,10 +71,7 @@ do {
 
 #### Declaring functions
 ``` cpp
-string functionName(string argument)
-{
-    // the function logic
-}
+float functionName(float, float);
 ```
 
 #### Defining funcitons
