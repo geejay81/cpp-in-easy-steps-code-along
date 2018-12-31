@@ -32,11 +32,17 @@ getline(cin, name)
 
 ### Some string functions
 
-| Functions         | Description                                   |
-|-------------------|-----------------------------------------------|
-| size()            | Returns number of characters                  |
-| capacity()        | Returns the current memory size               |
-| empty()           | Returns true if empty string                  |
-| clear()           | Clears the string                             |
-| append(text)      | Appends text to the variable                  |
-| compare(text)     | Returns number representing character diffs   |
+| Functions             | Description                                   |
+|-----------------------|-----------------------------------------------|
+| size()                | Returns number of characters                  |
+| capacity()            | Returns the current memory size               |
+| empty()               | Returns true if empty string                  |
+| clear()               | Clears the string                             |
+| append(text)          | Appends text to the variable                  |
+| compare(text)         | Returns number representing character diffs   |
+| assign(a, b, c)       | Assigns text a to the string, from character position b to c |
+| swap(a)               | Swaps the values of the variable with a       |
+| find_first_of(a)      |    |
+| find_last_of(a)       |    |
+| find_first_not_of(a)  |    |
+| find_last_not_of(a)   |    |
