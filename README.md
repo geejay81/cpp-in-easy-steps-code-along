@@ -10,3 +10,4 @@ This project is just me following along the coding in the book C++ Programming i
 - Chapter 2: [Performing Operations](ch-2/performing-operations.md)
 - Chapter 3: [Making Statements](ch-3/making-statements.md)
 - Chapter 4: [Handling Strings](ch-4/handling-strings.md)
+- Chapter 5: [Reading and Writing Files](ch-5/reading-and-writing-files.md)
