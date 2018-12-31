@@ -42,7 +42,12 @@ getline(cin, name)
 | compare(text)         | Returns number representing character diffs   |
 | assign(a, b, c)       | Assigns text a to the string, from character position b to c |
 | swap(a)               | Swaps the values of the variable with a       |
-| find_first_of(a)      |    |
-| find_last_of(a)       |    |
-| find_first_not_of(a)  |    |
-| find_last_not_of(a)   |    |
+| find_first_of(a)      | find location of first instance of a          |
+| find_last_of(a)       | find location of last instance of a           |
+| find_first_not_of(a)  | find first location of character not in a     |
+| find_last_not_of(a)   | find last location of character not in a      |
+| insert(a, b)          | insert string b at position a                 |
+| erase(a, b)           | erase a characters, starting at position b    |
+| replace(a, b, c)      | remove b characters, starting at a, replace with c   |
+| substr(a, b)          | select b number of characters, starting at position a   |
+| at(a)                 | select character at position a                |
